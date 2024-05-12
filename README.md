@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=acoolg&theme=dark&hide_border=true&locale=zh_Hant)](https://git.io/streak-stats)
 <!--
 **acoolg/acoolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
